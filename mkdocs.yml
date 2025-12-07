@@ -1,0 +1,12 @@
+site_name: Move Scripts Docs
+
+theme:
+  name: material
+  features:
+    # - navigation.expand
+    - navigation.sections
+    - navigation.indexes
+
+plugins:
+  - search
+  - awesome-pages
